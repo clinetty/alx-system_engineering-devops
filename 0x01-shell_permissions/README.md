@@ -1,1 +1,1 @@
-Description of each script
+This repository contains scripts that perform various commands
