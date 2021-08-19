@@ -1,1 +1,1 @@
-alx-system_engineering-devops repository
+This repository contains scripts that perform various commands
