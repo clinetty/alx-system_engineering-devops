@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugao+x ./
+chmode -r ugo+X
