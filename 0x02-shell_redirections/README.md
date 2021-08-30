@@ -46,7 +46,7 @@ Script 21: Script that reverse its input.
 
 Script 22: Script that displays all users and their home directories, sorted by users.
 
-Scipt 23: A command that finds all empty files and directories in the current directory and all sub-directories.
+Script 23: A command that finds all empty files and directories in the current directory and all sub-directories.
 
 Script 24: Script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 
